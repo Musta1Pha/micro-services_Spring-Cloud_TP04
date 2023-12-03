@@ -14,6 +14,7 @@
 
 <h2>Utilisation de Vault qui s'agit d'un outil de gestion des secrets.Il permet de stocker, gérer et distribuer des secrets, comme des clés d'API, des mots de passe et d'autres informations sensibles</h2>
 
+
 ![tp04_jee_05](https://github.com/Musta1Pha/micro-services_Spring-Cloud_TP04/assets/91842692/f98fe721-61ea-4159-8d0e-dcbcb5d1ba54)
 
 ![tp04_jee_06](https://github.com/Musta1Pha/micro-services_Spring-Cloud_TP04/assets/91842692/cf29724a-f4d4-4f72-8e0a-f8742eecaf97)
